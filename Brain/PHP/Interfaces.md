@@ -35,12 +35,12 @@ Interfaces estendíveis
 
 Herança multipla
 
-		interface a {}
-		interface b {}
+	interface a {}
+	interface b {}
 
-		interface c extends a, b {}
+	interface c extends a, b {}
 
-		class d implements c {}
+	class d implements c {}
 
 Interface com constantes
 

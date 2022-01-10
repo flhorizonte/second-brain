@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdce6a83a57f711",
+        "id": "5720886672c84fbc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DOCKER/Basic Setup.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCKER/Basic Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +82,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bcdce6a83a57f711",
+  "active": "5720886672c84fbc",
   "lastOpenFiles": [
+    "PHP/Interfaces.md",
+    "PHP/Exceptions.md",
     "DOCKER/Basic Setup.md",
     "PHP/Constantes.md",
-    "PHP/Exceptions.md",
-    "PHP/Interfaces.md",
     "PHP/PDO.md",
     "JAVASCRIPT/Embed Methods.md",
     "Untitled.md"
