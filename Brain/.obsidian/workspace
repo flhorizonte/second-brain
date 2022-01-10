@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "4838dcfb938a96fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcdce6a83a57f711",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DOCKER/Basic Setup.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a05f1486fd8f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30eac3b6a6ae7dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc7118600baa518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4915fa710efa9014",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d4801f9b2dff6d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "675681c81cbd8570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc33db7592484dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOCKER/Basic Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bcdce6a83a57f711",
+  "lastOpenFiles": [
+    "DOCKER/Basic Setup.md",
+    "PHP/Constantes.md",
+    "PHP/Exceptions.md",
+    "PHP/Interfaces.md",
+    "PHP/PDO.md",
+    "JAVASCRIPT/Embed Methods.md",
+    "Untitled.md"
+  ]
+}
