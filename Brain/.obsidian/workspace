@@ -7,8 +7,12 @@
         "id": "5720886672c84fbc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "COMPOSER/How to Publish.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPOSER/How to Publish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +89,15 @@
   },
   "active": "5720886672c84fbc",
   "lastOpenFiles": [
+    "COMPOSER/How to Publish.md",
     "PHP/Interfaces.md",
     "PHP/Exceptions.md",
-    "DOCKER/Basic Setup.md",
     "PHP/Constantes.md",
-    "PHP/PDO.md",
-    "JAVASCRIPT/Embed Methods.md",
-    "Untitled.md"
+    "JAVASCRIPT/For in, for of.md",
+    "JAVASCRIPT/this Function Context.md",
+    "Pasted image 20220124162226.png",
+    "JAVASCRIPT/Objetos.md",
+    "GIT/Revert Commit.md",
+    "HTML/Data Toggle.md"
   ]
 }
