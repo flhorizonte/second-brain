@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMPOSER/How to Publish.md",
+            "file": "JAVASCRIPT/For in, for of.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPOSER/How to Publish.md",
+                "file": "JAVASCRIPT/For in, for of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5720886672c84fbc",
   "lastOpenFiles": [
-    "COMPOSER/How to Publish.md",
-    "PHP/Interfaces.md",
-    "PHP/Exceptions.md",
-    "PHP/Constantes.md",
     "JAVASCRIPT/For in, for of.md",
     "JAVASCRIPT/this Function Context.md",
-    "Pasted image 20220124162226.png",
+    "JAVASCRIPT/Prototype Properties.md",
     "JAVASCRIPT/Objetos.md",
-    "GIT/Revert Commit.md",
-    "HTML/Data Toggle.md"
+    "JAVASCRIPT/InstanceOf.md",
+    "JAVASCRIPT/HasOwnProperty.md",
+    "CSS/Variaveis.md",
+    "CSS/Unidades de Medida.md",
+    "CSS/nth-child.md",
+    "CSS/Box-Sizing.md"
   ]
 }
